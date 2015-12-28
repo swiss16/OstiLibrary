@@ -1,0 +1,5 @@
+D:\Programmierung\Snippets\OstiLibrary\OstiLibrary\bin\Debug\OstiLibrary.dll
+D:\Programmierung\Snippets\OstiLibrary\OstiLibrary\bin\Debug\OstiLibrary.pdb
+D:\Programmierung\Snippets\OstiLibrary\OstiLibrary\obj\Debug\OstiLibrary.csprojResolveAssemblyReference.cache
+D:\Programmierung\Snippets\OstiLibrary\OstiLibrary\obj\Debug\OstiLibrary.dll
+D:\Programmierung\Snippets\OstiLibrary\OstiLibrary\obj\Debug\OstiLibrary.pdb
